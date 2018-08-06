@@ -15,7 +15,7 @@ puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
 
 phrase = "IM NOT SHOUTING"
 puts phrase.downcase
-lowercased_phrase = phrase # Put a . after phrase and use a String method.
+lowercased_phrase = phrase.downcase
 
 puts lowercased_phrase
 
@@ -28,7 +28,7 @@ letter_count = big_word.length
 puts "There are #{letter_count} letters in #{big_word}"
 
 # Challenge 5: Add "wow" and "mom" to big_word
-
+addword = "mom"
 bigger_word = big_word # Use String concatenation to add "wow" and "mom" to big_word
 
 new_letter_count = bigger_word.size
