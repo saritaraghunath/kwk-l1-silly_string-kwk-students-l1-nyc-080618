@@ -7,7 +7,7 @@ puts "My favorite word is #{your_favorite_word}"
 
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
-favorite_word_in_all_caps = your_favorite_word.help
+favorite_word_in_all_caps = your_favorite_word.
 
 puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
 
